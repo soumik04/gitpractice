@@ -1,1 +1,3 @@
 ECHO is on.
+
+Edited test2 for testing the branching in git using the branch codefix#1
